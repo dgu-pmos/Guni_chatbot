@@ -4,7 +4,7 @@
 더 자세한 현지 상황들을 제공하기 위해 빅데이터를 활용하여 맞춤형 전달을 하며, 여행코스 안내를 대화형 챗봇(Chatbot) 형태로 만들어 
 사용자들이 더 편리하게 이용할 수 있도록 구성하고자 했다. 
 
-1. 개발 환경
+##1. 개발 환경
 
 
 cloud server : google cloud platform
@@ -19,15 +19,21 @@ Database : mongodb
 UI/Client : kakao i open builder
 
 
-2. 구동 화면
+##2. 구동 화면
 
 
-2-1. 여행지 추천
+###2-1. 여행지 추천
 
 
 <p align="center"><img src="https://github.com/dgu-pmos/Guni_chatbot/blob/master/images/attraction_recommend.png" width="350" height="500"></p>
 
-2-2. 데이터 추가
+###2-2. 데이터 추가
 
 
 <p align="center"><img src="https://github.com/dgu-pmos/Guni_chatbot/blob/master/images/data_insert.png" width="350" height="500"></p>
+
+
+###3. Home URL
+
+
+http://pf.kakao.com/_IVKNT
