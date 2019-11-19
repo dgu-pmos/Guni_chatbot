@@ -5,13 +5,13 @@
 사용자들이 더 편리하게 이용할 수 있도록 구성하고자 했다. 
 
 1. 개발 환경
-  cloud server : google cloud platform
+cloud server : google cloud platform
   
-  REST API server : node.js
+REST API server : node.js
   
-  Database : mongodb
+Database : mongodb
   
-  UI/Client : kakao i open builder
+UI/Client : kakao i open builder
  
 2. 구동 화면
 2-1. 여행지 추천
