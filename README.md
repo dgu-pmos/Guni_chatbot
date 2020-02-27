@@ -25,7 +25,7 @@ UI/Client : kakao i open builder
 ### 2-1. 여행지 추천
 
 
-<p align="center"><img src="https://github.com/dgu-pmos/Guni_chatbot/blob/master/images/attraction_recommend.png" width="350" height="500"></p>
+<p align="center"><img src="https://github.com/dgu-pmos/Guni_chatbot/blob/master/images/attraction_recommend.png" width="400" height="600"></p>
 
 ### 2-2. 데이터 추가
 
